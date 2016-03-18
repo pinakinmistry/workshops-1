@@ -18,7 +18,7 @@
 * [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
 * [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/)
 
-## Links from Chat
+## Links from Chat / Discussion
 
 * [immutable example at babeljs.io](https://babeljs.io/repl/#?evaluate=true&presets=es2015%2Creact%2Cstage-0%2Cstage-1%2Cstage-2%2Cstage-3&experimental=true&loose=false&spec=false&playground=true&code=let%20items%20%3D%20%5B1%2C2%2C3%5D%3B%0A%0A%2F%2F%20add%0Avar%20newItems%20%3D%20%5B...items%2C%2030%5D%0A%0A%2F%2Fremove%0Avar%20filtered%20%3D%20newItems.filter(item%20%3D%3E%20item%20!%3D%3D%202)%3B%0A%0A%2F%2F%20udpate%0Avar%20things%20%3D%20%5B1%2C2%2C3%2C4%2C5%5D.map(num%20%3D%3E%20(%7Bid%3A%20num%7D))%3B%0Avar%20i%20%3D%20things.findIndex(item%20%3D%3E%20item.id%20%3D%3D%3D%202)%3B%0A%0Avar%20updated%20%3D%20%5B%0A%20%20...things.slice(0%2C%20i)%2C%0A%20%20%7Bid%3A%202%2C%20name%3A%20'sadfj'%7D%2C%0A%20%20...things.slice(i%20%2B%201)%0A%5D%3B%0A%0Avar%20state%20%3D%20%7Bapp%3A%20%7B%7D%2C%20items%3A%20%5B1%5D%7D%0A%0A%2F%2F%20add%0Avar%20newState%20%3D%20Object.assign(%7B%7D%2C%20state%2C%20%7Bthings%3A2%7D)%0A%0A%2F%2F%20udpate%0Avar%20newState%20%3D%20%7B%0A%20%20...state%2C%0A%20%20app%3A%202%0A%7D%3B%0A)
 * [ngrx devtools](https://github.com/ngrx/devtools)

@@ -32,6 +32,6 @@
 
 * [Video and Chat](https://frontendmasters.com/live-event/reactive-angular-2/)
 * [Livestream](https://livestream.com/accounts/4894689/events/4998207)
-* [Gist of all Links](https://gist.github.com/mrkd/a359d120879f4d5362a9)
+* [Workshop Links](https://github.com/mrkd/frontend-masters-workshops/blob/master/frontend-masters-reactive-angular-2.md#reactive-angular-2)
 * [Github Repo](https://github.com/onehungrymind/fem-ng2-ngrx-app)
 * [Slides](https://frontendmasters.com/assets/resources/lukasruebbelke/reactive-angular-2.pdf)

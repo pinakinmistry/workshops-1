@@ -12,6 +12,7 @@
 * [D1S05 - RxJS Live Coding, Challenge Setup ](https://livestream.com/accounts/4894689/events/4998207/videos/116162240)
 * [D1S06 - Challenge Solution, Immutable Operations](https://livestream.com/accounts/4894689/events/4998207/videos/116164594)
 * [D1S07 - Immutable Operations Solution, Reactive State with @ngrx/store](https://livestream.com/accounts/4894689/events/4998207/videos/116169518)
+* [D1S08 - ](https://livestream.com/accounts/4894689/events/4998207/videos/116178339)
 
 ## Referenced Workshops (Pre-reqs / Further Learning) 
 

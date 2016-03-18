@@ -29,6 +29,7 @@
 * [Building Awesome Apps with Firebase and Angular 2](https://www.youtube.com/watch?v=A1dpvZqoM_w)
 * [AngularFire2](https://github.com/angular/angularfire2)
 * [ng2 - RFC: Http interceptors and transformers](https://github.com/angular/angular/issues/2684)
+* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 
 ## Workshop Links
 

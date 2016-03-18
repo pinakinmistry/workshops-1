@@ -25,7 +25,9 @@
 * [batarangle](https://github.com/rangle/batarangle)
 * [falcor](https://netflix.github.io/falcor/)
 * [graphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
-* 
+* [CHANGE DETECTION IN ANGULAR 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
+* [Building Awesome Apps with Firebase and Angular 2](https://www.youtube.com/watch?v=A1dpvZqoM_w)
+* [AngularFire2](https://github.com/angular/angularfire2)
 
 ## Workshop Links
 

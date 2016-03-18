@@ -28,6 +28,7 @@
 * [CHANGE DETECTION IN ANGULAR 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
 * [Building Awesome Apps with Firebase and Angular 2](https://www.youtube.com/watch?v=A1dpvZqoM_w)
 * [AngularFire2](https://github.com/angular/angularfire2)
+* [ng2 - RFC: Http interceptors and transformers](https://github.com/angular/angular/issues/2684)
 
 ## Workshop Links
 

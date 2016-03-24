@@ -12,7 +12,10 @@
 * [Video and Chat](https://frontendmasters.com/live-event/intro-react-live/)
 * [Livestream](https://livestream.com/accounts/4894689/events/5033959)
 
+## Links from Chat / Discussion
 
+* Example repos on React code organization
+    * [react-router example huge-apps](https://github.com/reactjs/react-router/tree/master/examples/huge-apps)
 
 ## Snippets
 
@@ -22,3 +25,6 @@
 npm install -g http-server
 http-server -p 8080 ./
 ```
+
+
+## 

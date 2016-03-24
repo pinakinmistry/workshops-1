@@ -3,4 +3,4 @@
 
 ## Workshop Links
 
-* bit.ly/ReactIntro
+* https://btholt.github.io/complete-intro-to-react/

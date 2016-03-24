@@ -6,6 +6,7 @@
 
 * [D1S01 - Intro, Setup](https://livestream.com/accounts/4894689/events/5033959/videos/116823559)
 * [D1S02 - Intro, Setup](https://livestream.com/accounts/4894689/events/5033959/videos/116832060)
+* [D1S03 - D1S03 - Deeper Dive Into React](https://livestream.com/accounts/4894689/events/5033959/videos/116841681)
 
 ## Workshop Links
 

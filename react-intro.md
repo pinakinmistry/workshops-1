@@ -4,6 +4,7 @@
 
 ## Thursday, March 24, 2016 
 
+* [D1S01 - Intro, Setup](https://livestream.com/accounts/4894689/events/5033959/videos/116823559)
 
 ## Workshop Links
 

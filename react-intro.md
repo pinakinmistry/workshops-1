@@ -11,3 +11,14 @@
 * [Git Repo](https://github.com/btholt/complete-intro-to-react)
 * [Video and Chat](https://frontendmasters.com/live-event/intro-react-live/)
 * [Livestream](https://livestream.com/accounts/4894689/events/5033959)
+
+
+
+## Snippets
+
+### webserver
+
+```
+node install -g http-server
+http-server -p 8080 ./
+```

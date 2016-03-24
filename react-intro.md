@@ -26,5 +26,12 @@ npm install -g http-server
 http-server -p 8080 ./
 ```
 
+## code style / formatting
+
+```
+npm install -g standard
+standard
+```
+
 
 ## 

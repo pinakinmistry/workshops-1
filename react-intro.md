@@ -42,4 +42,6 @@ standard
 
 
 
-## 
+## Referenced Workshops, Pre-reqs
+
+* [Building Modern Web Apps (with React, Ampersand, ES6 and Webpack)// Dec 1, 2015](https://frontendmasters.com/courses/modern-web-apps/)

@@ -15,6 +15,7 @@
 
 ## Links from Chat / Discussion
 
+* [JavaScript Standard Style](http://standardjs.com/)
 * Example repos on React code organization
     * [react-router example huge-apps](https://github.com/reactjs/react-router/tree/master/examples/huge-apps)
 

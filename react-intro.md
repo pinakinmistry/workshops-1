@@ -19,6 +19,6 @@
 ### webserver
 
 ```
-node install -g http-server
+npm install -g http-server
 http-server -p 8080 ./
 ```

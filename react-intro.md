@@ -13,7 +13,7 @@
 
 * [D2S01 - Questions, React Testing Intro](https://livestream.com/accounts/4894689/events/5033959/videos/116931147)
 * [D2S02 ](https://livestream.com/accounts/4894689/events/5033959/videos/116940876)
-* [D2S03 ](https://livestream.com/accounts/4894689/events/5033959/videos/116953171)
+* [D2S03 - D2S03 - Flux Redux Intro](https://livestream.com/accounts/4894689/events/5033959/videos/116953171)
 
 ## Workshop Links
 

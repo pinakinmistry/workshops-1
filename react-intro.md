@@ -12,6 +12,7 @@
 ## Friday, March 25, 2016
 
 * [D2S01 - Questions, React Testing Intro](https://livestream.com/accounts/4894689/events/5033959/videos/116931147)
+* [D2S02 ](https://livestream.com/accounts/4894689/events/5033959/videos/116940876)
 
 ## Workshop Links
 

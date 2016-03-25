@@ -29,6 +29,7 @@
 * [editorconfig](http://editorconfig.org/)
 * [emmet js](http://emmet.io/)
     * [In Sublime Text 3, how do you enable Emmet for JSX files?](https://stackoverflow.com/questions/26089802/in-sublime-text-3-how-do-you-enable-emmet-for-jsx-files)
+* [React Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * 
 
 ## Snippets

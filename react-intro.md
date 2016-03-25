@@ -9,6 +9,10 @@
 * [D1S03 - Deeper Dive Into React](https://livestream.com/accounts/4894689/events/5033959/videos/116841681)
 * [D1S04 - ](https://livestream.com/accounts/4894689/events/5033959/videos/116852198)
 
+## Friday, March 25, 2016
+
+* [D2S01 - ]()
+
 ## Workshop Links
 
 * [Complete Intro to React](https://btholt.github.io/complete-intro-to-react/)

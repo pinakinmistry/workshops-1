@@ -15,6 +15,7 @@
 1. [D1S01 - React Native Intro - Todo App Setup](https://livestream.com/accounts/4894689/events/5652219/videos/128211904)
     * [react-web-starter](https://github.com/FrontendMasters/react-web-starter)
 1. [D1S02 - React Todo App Overview - React Native Todo App Intro](https://livestream.com/accounts/4894689/events/5652219/videos/128217150)
+    * [react native todo app](https://github.com/FrontendMasters/react-native-todo)
 2. [D1S03 - React Native - Native Todo Solution - Day 1, Hour 3](https://livestream.com/accounts/4894689/events/5652219/videos/128223858)
     
 

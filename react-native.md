@@ -13,6 +13,7 @@
 # Livestream Video Links
 
 1. [D1S01 - React Native Intro - Todo App Setup](https://livestream.com/accounts/4894689/events/5652219/videos/128211904)
+    * [react-web-starter](https://github.com/FrontendMasters/react-web-starter)
     
 
 # Links

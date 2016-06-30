@@ -20,6 +20,7 @@
 * Workshop Link - https://frontendmasters.com/live-event/react-native-live/
 * Livestream Link - https://livestream.com/accounts/4894689/events/5652219
 * [Slides](https://docs.google.com/presentation/d/18gCaTdcF9Hd7RPtVYdF8y52pPyLL3dwR5odxWLpZAkQ/edit?usp=sharing)
+* [react-web-starter](https://github.com/FrontendMasters/react-web-starter)
 * [React Native](https://facebook.github.io/react-native)
 * [React Native - Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
 

@@ -27,6 +27,7 @@
 * [react-web-starter](https://github.com/FrontendMasters/react-web-starter)
 * [React Native](https://facebook.github.io/react-native)
 * [React Native - Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
+* [React Native IDE - Deco](https://www.decosoftware.com/)
 
 # Notes
 

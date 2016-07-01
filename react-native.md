@@ -41,7 +41,7 @@
 
 * [Designs](https://projects.invisionapp.com/share/N27U0U08C#/screens/170997132_Home)
 * [Repo](https://github.com/FrontendMasters/sweat-book/)
-  * Check out the [boostrap-solution](https://github.com/FrontendMasters/sweat-book/tree/bootstrap-solution) branch
+  * Check out the [boostrap](https://github.com/FrontendMasters/sweat-book/tree/bootstrap) branch
 
 # Notes
 

@@ -12,6 +12,8 @@
 
 # Livestream Video Links
 
+## Day One - Thursday
+
 1. [D1S01 - React Native Intro - Todo App Setup](https://livestream.com/accounts/4894689/events/5652219/videos/128211904)
     * [react-web-starter](https://github.com/FrontendMasters/react-web-starter)
 1. [D1S02 - React Todo App Overview - React Native Todo App Intro](https://livestream.com/accounts/4894689/events/5652219/videos/128217150)
@@ -21,6 +23,7 @@
 4. [D1S05 - React Native - HTTP - Day 1, Hour 5](https://livestream.com/accounts/4894689/events/5652219/videos/128237199)
 5. [D1S06 - React Native - Redux - Day 1, Hour 6](https://livestream.com/accounts/4894689/events/5652219/videos/128244260)
 
+## Day Two - Friday
 
 # Links
 

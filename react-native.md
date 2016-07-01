@@ -51,6 +51,7 @@
 # Resources
 
 * [Flux Standard Actions](https://github.com/acdlite/flux-standard-action)
+* [React Native Scrollable Tab View](https://github.com/skv-headless/react-native-scrollable-tab-view)
 
 # Agenda
 

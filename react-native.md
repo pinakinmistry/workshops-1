@@ -1,4 +1,4 @@
-# React Native Live 
+# React Native Live
 
 ## June 30, 2016
 
@@ -17,7 +17,10 @@
 1. [D1S02 - React Todo App Overview - React Native Todo App Intro](https://livestream.com/accounts/4894689/events/5652219/videos/128217150)
     * [react native todo app](https://github.com/FrontendMasters/react-native-todo)
 2. [D1S03 - React Native - Native Todo Solution - Day 1, Hour 3](https://livestream.com/accounts/4894689/events/5652219/videos/128223858)
-    
+3. [D1S04 - React Native - Styles - Day 1, Hour 4](https://livestream.com/accounts/4894689/events/5652219/videos/128234271)
+4. [D1S05 - React Native - HTTP - Day 1, Hour 5](https://livestream.com/accounts/4894689/events/5652219/videos/128237199)
+5. [D1S05 - React Native - Redux - Day 1, Hour 6](https://livestream.com/accounts/4894689/events/5652219/videos/128244260)
+
 
 # Links
 
@@ -32,7 +35,7 @@
 # Notes
 
 
-# Resources 
+# Resources
 
 
 

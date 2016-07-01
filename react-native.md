@@ -26,6 +26,8 @@
 ## Day Two - Friday
 
 1. [D2S01 - React Native - Deeper into Redux - Day 2, Hour 1](https://livestream.com/accounts/4894689/events/5652219/videos/128312911)
+2. [D2S02 - React Native - Tab Navigation - Day 2, Hour 3](https://livestream.com/accounts/4894689/events/5652219/videos/128322165)
+
 
 # Links
 

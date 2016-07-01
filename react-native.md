@@ -62,6 +62,12 @@
 * [react-native-vector-icons](https://www.npmjs.com/package/react-native-vector-icons)
 * [Invision](https://www.invisionapp.com/) - collaborative online web design site
 
+## Alternatives to React-Native
+
+* [Ionic Advanced HTML5 Hybrid Mobile App Framework](http://ionicframework.com/)
+* [Siphon  Pain-free publishing for React Native](https://getsiphon.com/)
+* [CodePush](http://microsoft.github.io/code-push/)
+
 # Agenda
 
 ### Day One

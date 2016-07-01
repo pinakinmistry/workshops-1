@@ -28,6 +28,7 @@
 1. [D2S01 - React Native - Deeper into Redux - Day 2, Hour 1](https://livestream.com/accounts/4894689/events/5652219/videos/128312911)
 2. [D2S02 - React Native - Tab Navigation - Day 2, Hour 3](https://livestream.com/accounts/4894689/events/5652219/videos/128322165)
 3. [D2S03 - React Native - Solution for Tab Navigation - Day 2, Hour 3.1](https://livestream.com/accounts/4894689/events/5652219/videos/128327063)
+4. [D2S04 - React Native - Native Components - Day 2, Hour 4](https://livestream.com/accounts/4894689/events/5652219/videos/128327063)
 
 
 # Links

@@ -50,7 +50,7 @@
 
 # Resources
 
-
+* [Flux Standard Actions](https://github.com/acdlite/flux-standard-action)
 
 # Agenda
 

@@ -34,10 +34,14 @@
 * [React Native](https://facebook.github.io/react-native)
 * [React Native - Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
 * [React Native IDE - Deco](https://www.decosoftware.com/)
+* [react-native-todo](https://github.com/FrontendMasters/react-native-todo)
+
 
 # SweatBook
 
 * [Designs](https://projects.invisionapp.com/share/N27U0U08C#/screens/170997132_Home)
+* [Repo](https://github.com/FrontendMasters/sweat-book/)
+  * Check out the [boostrap-solution](https://github.com/FrontendMasters/sweat-book/tree/bootstrap-solution) branch
 
 # Notes
 

@@ -30,7 +30,7 @@
 3. [D2S03 - React Native - Solution for Tab Navigation - Day 2, Hour 3.1](https://livestream.com/accounts/4894689/events/5652219/videos/128327063)
 4. [D2S04 - React Native - Native Components - Day 2, Segment 4](https://livestream.com/accounts/4894689/events/5652219/videos/128327063)
 5. [D2S05 - React Native - Reusable UI Components - Day 2, Segment 5](https://livestream.com/accounts/4894689/events/5652219/videos/128334003)
-6 [D2S06 - React Native - Async - Day 2, Segment 6](https://livestream.com/accounts/4894689/events/5652219/videos/128347143)
+6. [D2S06 - React Native - Async - Day 2, Segment 6](https://livestream.com/accounts/4894689/events/5652219/videos/128347143)
 
 # Links
 

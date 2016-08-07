@@ -10,15 +10,34 @@
 * Github - https://github.com/kentcdodds
 * https://kentcdodds.com/
 
+## Tentative Schedule
 
-# Links
+
+* 8:30    Tech Check and Hello
+* 9:00    Setup baseline webpack understanding (quick intro to fundamentals)
+* 9:30    Exercises
+* 10:00   Setting up a test environment with Karma
+* 10:30   Exercises
+* 11:15   Adding code coverage to test setup
+* 11:30   Lunch and Exercises
+* 12:30   Tree-shaking
+* 12:45   Exercises
+* 1:00    Code splitting
+* 1:20    Exercises
+* 2:00    Caching
+* 2:30    Exercises
+* 3:15    CommonsChunkPlugin
+* 3:30    Exercises
+* 4:00    Wrap up, links, and resources* 
+
+## Links
 
 * Workshop Page - https://frontendmasters.com/workshops/webpack/
 * Livestream - https://livestream.com/accounts/4894689/events/6042257
 * 
 
 
-# Livestream Video Links
+## Livestream Video Links
 
 * Livestream Page
 * 

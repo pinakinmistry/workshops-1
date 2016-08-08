@@ -32,6 +32,7 @@
 
 ## Links
 
+* Slides - kcd.im/webpack-workshop
 * Workshop Page - https://frontendmasters.com/workshops/webpack/
 * Livestream - https://livestream.com/accounts/4894689/events/6042257
 * 

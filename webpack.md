@@ -49,6 +49,7 @@
 * [2. Webpack Deep Dive](https://livestream.com/accounts/4894689/events/6042257/videos/132278220)
 * [3. Webpack Deep Dive](https://livestream.com/accounts/4894689/events/6042257/videos/132282471)
 * [4. Webpack Deep Dive](https://livestream.com/accounts/4894689/events/6042257/videos/132289548)
+* [5. Webpack Deep Dive](https://livestream.com/accounts/4894689/events/6042257/videos/132296237)
 
 
 ## Setup Instructions

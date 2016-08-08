@@ -43,8 +43,8 @@
 * [Livestream Page](https://livestream.com/accounts/4894689/events/6042257)
 
 
-1. [Webpack Deep Dive 1](https://livestream.com/accounts/4894689/events/6042257/videos/132274400)
-1. []() 
+1. [1. Webpack Deep Dive](https://livestream.com/accounts/4894689/events/6042257/videos/132274400)
+1. [2. Webpack Deep Dive](https://livestream.com/accounts/4894689/events/6042257/videos/132278220) 
 
 
 ## Setup Instructions

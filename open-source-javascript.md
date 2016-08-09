@@ -32,7 +32,7 @@
 
 ## Links
 
-* Slides - https://kcd.im/webpack-workshop
+* Slides - 
 * Workshop Page - https://frontendmasters.com/workshops/open-source/
 * Livestream - https://livestream.com/accounts/4894689/events/6042268
 * 

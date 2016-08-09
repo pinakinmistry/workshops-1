@@ -63,6 +63,7 @@
     * [autocomplete-modules](https://atom.io/packages/autocomplete-modules)
     * [file-icons](https://atom.io/packages/file-icons)
     * See more at his [AMA](https://github.com/kentcdodds/ama/issues/113)
+* [Conventional Changelogs](https://github.com/conventional-changelog/conventional-changelog)
 
 ## Setup Instructions
 

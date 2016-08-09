@@ -48,7 +48,7 @@
 ## Links / Resources
 
 * https://opensource.org/osd
-* 
+* https://opensource.org/licenses
 
 ## Setup Instructions
 

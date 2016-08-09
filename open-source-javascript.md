@@ -45,6 +45,10 @@
 
 * [1.]()
 
+## Links / Resources
+
+* https://opensource.org/osd
+* 
 
 ## Setup Instructions
 

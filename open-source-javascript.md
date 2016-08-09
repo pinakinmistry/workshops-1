@@ -43,7 +43,7 @@
 
 
 
-* [1.]()
+* [1. Writing an Open Source JavaScript Library](https://livestream.com/accounts/4894689/events/6042268/videos/132353234)
 
 ## Links / Resources
 
@@ -51,7 +51,13 @@
 * https://opensource.org/licenses
 * http://contributor-covenant.org/
 * http://contributor-covenant.org/version/1/4/code_of_conduct.md
-* 
+* Text Editor Kent used: Atom
+* Atom Plugins mentioned
+    * [autocomplete-emojis](https://atom.io/packages/autocomplete-emojis)
+    * [autocomplete-json](https://atom.io/packages/autocomplete-json)
+    * [autocomplete-modules](https://atom.io/packages/autocomplete-modules)
+    * [file-icons](https://atom.io/packages/file-icons)
+    * See more at his [AMA](https://github.com/kentcdodds/ama/issues/113)
 
 ## Setup Instructions
 

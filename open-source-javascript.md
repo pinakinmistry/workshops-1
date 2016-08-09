@@ -32,10 +32,9 @@
 
 ## Links
 
-* Slides - 
+* Slides - https://kcd.im/oss-workshop
 * Workshop Page - https://frontendmasters.com/workshops/open-source/
 * Livestream - https://livestream.com/accounts/4894689/events/6042268
-* 
 
 
 ## Livestream Video Links

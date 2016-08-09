@@ -47,6 +47,7 @@
 * [1. Writing an Open Source JavaScript Library](https://livestream.com/accounts/4894689/events/6042268/videos/132353234)
 * [2. Writing an Open Source JavaScript Library](https://livestream.com/accounts/4894689/events/6042268/videos/132356428)
 * [3. Writing an Open Source JavaScript Library](https://livestream.com/accounts/4894689/events/6042268/videos/132359028)
+* [4. Writing an Open Source JavaScript Library](https://livestream.com/accounts/4894689/events/6042268/videos/132373582)
 
 
 ## Links / Resources

@@ -64,6 +64,7 @@
     * [file-icons](https://atom.io/packages/file-icons)
     * See more at his [AMA](https://github.com/kentcdodds/ama/issues/113)
 * [Conventional Changelogs Conventions](https://github.com/conventional-changelog/conventional-changelog/blob/v0.5.3/conventions/angular.md)
+* [validate commit msg](https://github.com/kentcdodds/validate-commit-msg)
 
 ## Setup Instructions
 

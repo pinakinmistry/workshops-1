@@ -49,6 +49,9 @@
 
 * https://opensource.org/osd
 * https://opensource.org/licenses
+* http://contributor-covenant.org/
+* http://contributor-covenant.org/version/1/4/code_of_conduct.md
+* 
 
 ## Setup Instructions
 

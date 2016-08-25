@@ -22,6 +22,7 @@
 
 ## Links / Resources
 
+* [Slides](https://github.com/kwhinnery/todomvc-plusplus/blob/master/zerotoprod.pdf)
 * [TodoMVC++ : Taking TodoMVC To Production - Github](https://github.com/kwhinnery/todomvc-plusplus) 
 
 ## Tentative Schedule

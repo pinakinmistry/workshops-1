@@ -18,6 +18,7 @@
 2. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133904031)
 3. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133908848)
 4. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133912363)
+5. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133919645)
 
 ## Links / Resources
 

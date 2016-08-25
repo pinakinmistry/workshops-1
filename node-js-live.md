@@ -17,6 +17,8 @@
 
 ## Links / Resources
 
+* [TodoMVC++ : Taking TodoMVC To Production - Github](https://github.com/kwhinnery/todomvc-plusplus) 
+
 ## Tentative Schedule
 
 ## Day 1:

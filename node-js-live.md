@@ -38,3 +38,14 @@
 * 2:00    A Production Monitoring System
 * 3:00    Check Your Assumptions with Web Analytics
 * 4:00    Day 2 Wrap-up and Q&A
+* 
+
+## Meta
+
+
+```
+Welcome to the Node: Zero to Production workshop! We'll get started at [9:10AM CDT](https://www.google.com/search?q=9am+cdt).
+_Please say "hello" and let us know where you're joining us from!_
+
+* [Workshop Links](https://github.com/FrontendMasters/workshops/blob/master/node-js-live.md#node-zero-to-production)
+```

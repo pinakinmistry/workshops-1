@@ -25,6 +25,7 @@
 * [Slides](https://github.com/kwhinnery/todomvc-plusplus/blob/master/zerotoprod.pdf)
 * [TodoMVC++ : Taking TodoMVC To Production - Github](https://github.com/kwhinnery/todomvc-plusplus) 
 * [Postico](https://eggerapps.at/postico/)
+* [eb cli install](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html)
 
 ## Tentative Schedule
 

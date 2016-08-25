@@ -11,6 +11,12 @@
 * Github - https://github.com/kwhinnery
 * http://kevinwhinnery.com/
 
+## Livestream Video Links
+
+
+
+## Links / Resources
+
 ## Tentative Schedule
 
 ## Day 1:

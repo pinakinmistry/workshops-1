@@ -16,6 +16,7 @@
 
 1. [Node JS Live - Setup, Intro](https://livestream.com/accounts/4894689/events/6214572/videos/133899527)
 2. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133904031)
+3. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133908848)
 
 ## Links / Resources
 

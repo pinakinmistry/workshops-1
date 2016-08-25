@@ -12,7 +12,7 @@
 * http://kevinwhinnery.com/
 
 ## Livestream Video Links
-
+* [Livestream](https://livestream.com/accounts/4894689/events/6214572)
 
 
 ## Links / Resources

@@ -35,6 +35,8 @@
 * [TodoMVC++ : Taking TodoMVC To Production - Github](https://github.com/kwhinnery/todomvc-plusplus) 
 * [Postico](https://eggerapps.at/postico/)
 * [eb cli install](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html)
+* [Locust - load testing](http://locust.io/)
+
 
 ## Tentative Schedule
 

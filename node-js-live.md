@@ -28,6 +28,11 @@
 1. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133990735)
 2. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133994970)
 3. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133997788)
+4. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/134008980)
+5. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/134012480)
+6. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/134016649)
+
+
 
 ## Links / Resources
 

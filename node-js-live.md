@@ -36,6 +36,7 @@
 * [Postico](https://eggerapps.at/postico/)
 * [eb cli install](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html)
 * [Locust - load testing](http://locust.io/)
+* [Rollbar](https://rollbar.com/docs/notifier/node_rollbar/)
 
 
 ## Tentative Schedule

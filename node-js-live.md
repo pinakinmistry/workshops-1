@@ -14,12 +14,20 @@
 ## Livestream Video Links
 * [Livestream](https://livestream.com/accounts/4894689/events/6214572)
 
+## Day One
+
 1. [Node JS Live - Setup, Intro](https://livestream.com/accounts/4894689/events/6214572/videos/133899527)
 2. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133904031)
 3. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133908848)
 4. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133912363)
 5. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133919645)
 6. [Node JS Live - AWS Walkthrough](https://livestream.com/accounts/4894689/events/6214572/videos/133922191)
+
+## Day Two
+
+1. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133990735)
+2. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133994970)
+3. [Node JS Live](https://livestream.com/accounts/4894689/events/6214572/videos/133997788)
 
 ## Links / Resources
 
